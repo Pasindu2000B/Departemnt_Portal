@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ef6huZVvF3K8sY43rl2I6sCzTfGsJo3uyT1YRpbsGDgldn5LKkE+1+Mp0WN0A2p8OPpm+IMKMiPWMlmQes+2qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\baseERPApp\\Infrastructure\\ERP.Repository.InMemory\\ERP.Repository.InMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

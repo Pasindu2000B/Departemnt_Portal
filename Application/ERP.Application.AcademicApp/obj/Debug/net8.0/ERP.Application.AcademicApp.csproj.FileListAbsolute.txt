@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\bin\Debug\net8.0\ERP.Application.AcademicApp.deps.json
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\bin\Debug\net8.0\ERP.Application.AcademicApp.dll
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\bin\Debug\net8.0\ERP.Application.AcademicApp.pdb
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ERP.Application.AcademicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ERP.Application.AcademicApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ERP.Application.AcademicApp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ERP.Application.AcademicApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ERP.Application.AcademicApp.sourcelink.json
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ERP.Application.AcademicApp.dll
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\refint\ERP.Application.AcademicApp.dll
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ERP.Application.AcademicApp.pdb
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.AcademicApp\obj\Debug\net8.0\ref\ERP.Application.AcademicApp.dll

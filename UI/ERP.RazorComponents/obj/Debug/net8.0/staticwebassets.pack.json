@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.RazorComponents\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.RazorComponents\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERP.RazorComponents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ERP.RazorComponents.props",
+      "PackagePath": "build\\ERP.RazorComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP.RazorComponents.props",
+      "PackagePath": "buildMultiTargeting\\ERP.RazorComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ERP.RazorComponents.props",
+      "PackagePath": "buildTransitive\\ERP.RazorComponents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

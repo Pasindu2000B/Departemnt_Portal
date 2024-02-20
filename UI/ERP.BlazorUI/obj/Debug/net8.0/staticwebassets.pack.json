@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP.BlazorUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ERP.BlazorUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.BlazorUI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.BlazorUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.BlazorUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.BlazorUI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\baseERPApp\\UI\\ERP.BlazorUI\\wwwroot\\images\\woman.png",
+      "PackagePath": "staticwebassets\\images\\woman.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERP.BlazorUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ERP.BlazorUI.props",
+      "PackagePath": "build\\ERP.BlazorUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP.BlazorUI.props",
+      "PackagePath": "buildMultiTargeting\\ERP.BlazorUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ERP.BlazorUI.props",
+      "PackagePath": "buildTransitive\\ERP.BlazorUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

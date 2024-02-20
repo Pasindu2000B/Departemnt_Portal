@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\bin\Debug\net8.0\ERP.Application.StudentApp.deps.json
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\bin\Debug\net8.0\ERP.Application.StudentApp.dll
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\bin\Debug\net8.0\ERP.Application.StudentApp.pdb
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\bin\Debug\net8.0\ERP.Domain.Core.dll
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\bin\Debug\net8.0\ERP.Domain.Core.pdb
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.sourcelink.json
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.csproj.CopyComplete
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.dll
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\refint\ERP.Application.StudentApp.dll
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ERP.Application.StudentApp.pdb
+C:\Users\Asus\Desktop\baseERPApp\Application\ERP.Application.StudentApp\obj\Debug\net8.0\ref\ERP.Application.StudentApp.dll
